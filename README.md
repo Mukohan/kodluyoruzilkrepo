@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# kodluyoruzilkrepo www.patika.dev
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 ODLUYORUZ İLK REPO
 Bu repo Kodluyoruz Front -End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası bir adet de index.html barındırıyor
